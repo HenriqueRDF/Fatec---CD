@@ -24,13 +24,13 @@ O repositório está organizado da seguinte maneira:<br>
 </span>
 Neste repositório, você encontrará trabalhos realizados com as seguintes tecnologias e linguagens:<br>
 
-** 🐍 Python**;<br>
-** 📊 R**;<br>
-** 🗄️ SQL**</span>;<br>
-** 🐼 Pandas**;<br>
-** 🔢 NumPy**</span>;<br>
-** 📈 Matplotlib**;<br>
-** 🤖 Scikit-Learn**.<br><br>
+ 🐍 **Python**;<br>
+ 📊 **R**;<br>
+ 🗄️ **SQL**;<br>
+ 🐼 **Pandas**;<br>
+ 🔢 **NumPy**;<br>
+ 📈 **Matplotlib**;<br>
+ 🤖 **Scikit-Learn**.<br><br>
 
 <span style="color:golden;">
 
