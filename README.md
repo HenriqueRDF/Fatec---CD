@@ -1,4 +1,4 @@
-<span style="color:golden;"># 📚 Repositório de Atividades e Estudos - Fatec Rubens Lara </span>
+<span style="color:golden;"># 📚 Repositório de Atividades e Estudos - Fatec Rubens Lara 
 Bem-vindo ao meu repositório de atividades, exercícios, desafios e estudos realizados durante o curso de Ciência de Dados na Fatec Rubens Lara. Este repositório foi criado para compartilhar meu progresso, aprendizado e projetos desenvolvidos ao longo do curso.
 
 <span style="color:golden;">## 📖 Sobre o Curso </span>
